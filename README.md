@@ -144,6 +144,20 @@ This architecture follows the Retrieval-Augmented Generation (RAG) approach.
 ```
 
 ---
+# Demo
+
+## ResearchLens Interface
+
+![ResearchLens Interface](screenshots/researchlens-interface.png)
+
+## Figure-Based Question Answering
+
+![Figure Question Answering](screenshots/figure-question.png)
+
+## Semantic Question Answering
+
+![Semantic Question Answering](screenshots/dataset-question.png)
+
 
 # Processing Pipeline
 
