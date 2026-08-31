@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+spacy
+scikit-learn
+sentence-transformers
+faiss-cpu
+google-genai
+pydantic
+numpy
+# After installing, also run:
+#   python -m spacy download en_core_web_sm
