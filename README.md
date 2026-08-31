@@ -519,6 +519,10 @@ research_lens/
 │   ├── chunking.py
 │   ├── embeddings.py
 │   └── qa_engine.py
+├── screenshots/
+│   ├── researchlens-interface.png
+│   ├── figure-question.png
+│   └── dataset-question.png
 │
 ├── frontend/
 │   └── index.html
